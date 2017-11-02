@@ -1,0 +1,5 @@
+Steps to add a new file to GitHub:
+
+git add nameoffile
+git commit -m “This is a step by step guide to add/edit a file”
+git push origin master
